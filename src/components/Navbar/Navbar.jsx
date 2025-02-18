@@ -88,7 +88,7 @@ const Navbar = () => {
                   rel="noreferrer noopener"
                   title="View Source Code on Github"
                 >
-                  Source Code
+                  My Resume
                 </a>
               </li>
             </ul>
